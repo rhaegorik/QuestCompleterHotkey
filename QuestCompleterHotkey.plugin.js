@@ -3,6 +3,7 @@
  * @author rhaegorik
  * @description Запускает скрипт discord-quest-completer по нажатию Ctrl+Shift+Q.
  * @version 1.0.0
+ * @source https://github.com/rhaegorik/QuestCompleterHotkey
  */
 
 module.exports = class QuestCompleterHotkey {
